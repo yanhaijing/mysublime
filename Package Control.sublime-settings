@@ -1,0 +1,34 @@
+{
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Clipboard History",
+		"CSS3_Syntax",
+		"DocBlockr",
+		"Emmet",
+		"GBK Encoding Support",
+		"Git",
+		"HexViewer",
+		"HTML-CSS-JS Prettify",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"LESS",
+		"Liquid",
+		"MultiEditUtils",
+		"Pretty JSON",
+		"Sass",
+		"Smarty",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Terminal"
+	]
+}
