@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"channels":
 	[
 		"https://packagecontrol.io/channel_v3.json"
@@ -24,6 +25,8 @@
 		"LESS",
 		"Liquid",
 		"MultiEditUtils",
+		"Package Control",
+		"Package Syncing",
 		"Pretty JSON",
 		"Sass",
 		"Smarty",
