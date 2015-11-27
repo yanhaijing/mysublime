@@ -10,6 +10,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"AutoFileName",
 		"Autoprefixer",
 		"BracketHighlighter",
 		"Clipboard History",
@@ -24,6 +25,7 @@
 		"jQuery",
 		"LESS",
 		"Liquid",
+		"Markdown Preview",
 		"MultiEditUtils",
 		"Package Control",
 		"Package Syncing",
